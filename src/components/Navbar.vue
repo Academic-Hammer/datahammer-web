@@ -24,7 +24,7 @@
             <a class="nav-link smoth-scroll" href="/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link smoth-scroll" href="/people">People</a>
+            <a class="nav-link smoth-scroll" href="/member">Member</a>
           </li>
           <li class="nav-item">
             <a class="nav-link smoth-scroll" href="publication">Publication</a>

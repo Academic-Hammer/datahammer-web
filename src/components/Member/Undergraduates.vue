@@ -1,9 +1,9 @@
 <template>
   <section class="section-padding pt-0">
     <div class="container">
-      <h2 class="mb-3">Masters Students</h2>
+      <h2 class="mb-3">Undergraduate Students</h2>
       <div class="row">
-        <div v-for="master in masters" :key="master.id" class="col-lg-6 infobox">
+        <div v-for="master in members" :key="master.id" class="col-lg-6 infobox">
           <div class="media">
             <div>
               <img :src="master.photo" :alt="master.name" class="avatar-img" />
@@ -46,18 +46,24 @@
 </template>
 
 <script>
-import masters from "@/data/masters.json";
-const newMasters = masters.map(member => ({
+import members from "@/data/undergraduates.json";
+const newMembers = members.map(member => ({
   ...member,
   photo: require(`@/data/photos/${member.photo}`)
 }));
 
 export default {
-  name: "Masters",
+  name: "Undergraduates",
   data() {
     return {
-      masters: newMasters
+      members: newMembers
     };
   }
 };
 </script>
+
+<style scoped>
+section {
+  display: none;
+}
+</style>

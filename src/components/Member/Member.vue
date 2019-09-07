@@ -9,6 +9,7 @@
     <Advisor></Advisor>
     <Doctor></Doctor>
     <Masters></Masters>
+    <Undergraduates></Undergraduates>
     <Directions></Directions>
   </div>
 </template>
@@ -19,15 +20,17 @@ import Advisor from "./Advisor";
 import Doctor from "./Doctor";
 import Masters from "./Masters";
 import Directions from "./Directions";
+import Undergraduates from "./Undergraduates"
 
 export default {
-  name: "People",
+  name: "Member",
   components: {
     Banner,
     Advisor,
     Doctor,
     Masters,
-    Directions
+    Directions,
+    Undergraduates
   }
 };
 </script>

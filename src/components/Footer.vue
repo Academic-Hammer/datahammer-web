@@ -10,7 +10,7 @@
                 <a href="/">Home</a>
               </li>
               <li>
-                <a href="/people">People</a>
+                <a href="/member">Member</a>
               </li>
               <li>
                 <a href="/publication">Publication</a>

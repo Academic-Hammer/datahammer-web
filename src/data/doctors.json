@@ -8,6 +8,22 @@
     "description": "Hello, I am Yi-Kun Tang and I am now a Ph.D candidate in Beijing Institute of Technology."
   },
   {
+    "name": "Yuming Shang",
+    "photo": "shangyuming.jpeg",
+    "email": "ymshang@bit.edu.cn",
+    "github": "",
+    "homepage": "",
+    "description": "Hello, I am Yuming Shang and I am now a Ph.D candidate in Beijing Institute of Technology."
+  },
+  {
+    "name": "ZeWen Chi",
+    "photo": "chizewen.jpeg",
+    "email": "chizewen@outlook.com",
+    "github": "http://github.com/czwin32768",
+    "homepage": "",
+    "description": "Research Interest: cross-lingual NLP, pretraining for NLP; Hobby: swimming, cycling, DOTA, PUBG, PS4 games(Metal Gear Solid V), korean drama, kpop girl groups, korean variety show."
+  },
+  {
     "name": "Tian Lan",
     "photo": "lantian.jpeg",
     "email": "lantiangmftby@gmail.com",
@@ -16,11 +32,11 @@
     "description": "Hello, I'm GMFTBY, don't ask me the meaning of 'GMFTBY'. I'm a graduate student of Beijing institute of technology. Recently, I focus on the Dialog systems."
   },
   {
-    "name": "ZeWen Chi",
-    "photo": "chizewen.jpeg",
-    "email": "chizewen@outlook.com",
-    "github": "http://github.com/czwin32768",
-    "homepage": "",
-    "description": "Research Interest: cross-lingual NLP, pretraining for NLP; Hobby: swimming, cycling, DOTA, PUBG, PS4 games(Metal Gear Solid V), korean drama, kpop girl groups, korean variety show (Running Man, 2 Days & 1 Night, Knowing Bros)"
+    "name": "Heng-Da Xu",
+    "photo": "xuhengda.jpg",
+    "email": "dadamrxx@gmail.com",
+    "github": "ttps://github.com/DaDaMrX",
+    "homepage": "https://dadamrx.github.io",
+    "description": "Hello, I am Heng-Da Xu. I am a graduate student now in Beijing Institute of Technology, majoring Computer Science. My interest in general lies in text generating and dialogue systems."
   }
 ]
