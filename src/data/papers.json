@@ -1,0 +1,158 @@
+[
+    {
+        "year": "2019",
+        "papers": [
+            {
+                "title": "Object Detection based Deep Unsupervised Hashing",
+                "url": "https://arxiv.org/pdf/1811.09822.pdf",
+                "authors": [
+                    "Rong-Cheng Tu",
+                    "Xian-Ling Mao",
+                    "Bo-Si Feng",
+                    "Shu-ying Yu"
+                ],
+                "venue": "IJCAI 2019"
+            },
+            {
+                "title": "HSDS: An Abstractive Model for Automatic Survey Generation",
+                "url": "https://link.springer.com/chapter/10.1007/978-3-030-18576-3_5",
+                "authors": [
+                    "Xiao-Jian Jiang",
+                    "Xian-Ling Mao",
+                    "Bo-Si Feng",
+                    "Xiaochi Wei",
+                    "Bin-Bin Bian",
+                    "Heyan Huang"
+                ],
+                "venue": "DASFAA 2019"
+            },
+            {
+                "title": "Multi-task Learning for Low-resource Second Language Acquisition Modeling",
+                "url": "https://arxiv.org/abs/1908.09283",
+                "authors": [
+                    "Yong Hu",
+                    "Heyan Huang",
+                    "Tian Lan",
+                    "Xiaochi Wei",
+                    "Yuxiang Nie",
+                    "Jiarui Qi",
+                    "Liner Yang",
+                    "Xian-Ling Mao"
+                ],
+                "venue": "ArXiv"
+            },
+            {
+                "title": "Complicated Table Structure Recognition",
+                "url": "https://arxiv.org/abs/1908.04729",
+                "authors": [
+                    "Zewen Chi",
+                    "Heyan Huang",
+                    "Heng-Da Xu",
+                    "Houjin Yu",
+                    "Wanxuan Yin",
+                    "Xian-Ling Mao"
+                ],
+                "venue": "ArXiv"
+            },
+            {
+                "title": "Deep Cross-Modal Hashing with Hashing Functions and Unified Hash Codes Jointly Learning",
+                "url": "https://arxiv.org/abs/1907.12490",
+                "authors": [
+                    "Rong-Cheng Tu",
+                    "Xian-Ling Mao",
+                    "Bing Ma",
+                    "Yong Hu",
+                    "Tan Yan",
+                    "Wei Wei",
+                    "Heyan Huang"
+                ],
+                "venue": "ArXiv"
+            },
+            {
+                "title": "Deep Hashing for Signed Social Network Embedding",
+                "url": "https://arxiv.org/abs/1908.04007",
+                "authors": [
+                    "Jia-Nan Guo",
+                    "Xian-Ling Mao",
+                    "Xiao-Jian Jiang",
+                    "Ying-Xiang Sun",
+                    "Wei Wei",
+                    "He-Yan Huang"
+                ],
+                "venue": "ArXiv"
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "papers": [
+            {
+                "title": "Supervised Deep Hashing for Hierarchical Labeled Data",
+                "url": "https://arxiv.org/abs/1704.02088",
+                "authors": [
+                    "Dan Wang",
+                    "Heyan Huang",
+                    "Chi Lu",
+                    "Bo-Si Feng",
+                    "Liqiang Nie",
+                    "Guihua Wen",
+                    "Xian-Ling Mao"
+                ],
+                "venue": "AAAI 2018"
+            },
+            {
+                "title": "Query completion in community-based Question Answering search",
+                "url": "https://www.sciencedirect.com/science/article/pii/S0925231217306665",
+                "authors": [
+                    "Xian-Ling Mao",
+                    "Yi-Jing Hao,",
+                    "Dan Wang",
+                    "Heyan Huang"
+                ],
+                "venue": "Neurocomputing 2018"
+            },
+            {
+                "title": "Conceptualization topic modeling",
+                "url": "https://link.springer.com/article/10.1007/s11042-017-5145-4",
+                "authors": [
+                    "Yi-Kun Tang",
+                    "Xian-Ling Mao",
+                    "Heyan Huang",
+                    "Xuewen Shi",
+                    "Guihua Wen"
+                ],
+                "venue": "Multimedia Tools and Applications 2018"
+            },
+            {
+                "title": "Labeled Phrase Latent Dirichlet Allocation and its online learning algorithm",
+                "url": "https://link.springer.com/article/10.1007/s10618-018-0555-0",
+                "authors": [
+                    "Yi-Kun Tang",
+                    "Xian-Ling Mao",
+                    "Heyan Huang",
+                    "Xuewen Shi",
+                    "Guihua Wen"
+                ],
+                "venue": "Multimedia Tools and Applications 2018"
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "papers": [
+            {
+                "title": "S2JSD-LSH: a locality-sensitive hashing schema for probability distributions",
+                "url": "https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14692",
+                "authors": [
+                    "Xian-Ling Mao",
+                    "Bo-Si Feng",
+                    "Yi-Jing Hao",
+                    "Liqiang Nie",
+                    "Heyan Huang",
+                    "Guihua Wen"
+                ],
+                "venue": "AAAI 2017"
+            }
+        ]
+    }
+]

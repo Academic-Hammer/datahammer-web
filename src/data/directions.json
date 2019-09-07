@@ -1,0 +1,35 @@
+[
+    {
+        "direction": "Learn to Hash",
+        "image": "hash.png",
+        "members": [
+            "Rong-Cheng Tu",
+            "Jia-Nan Guo"
+        ]
+    },
+    {
+        "direction": "Dialogue",
+        "image": "dialogue.png",
+        "members": [
+            "Tian Lan",
+            "Heng-Da Xu"
+        ]
+    },
+    {
+        "direction": "Information Extraction",
+        "image": "IE.png",
+        "members": [
+            "Hou-Jin Yu",
+            "Tan Yan",
+            "Ping Jiang"
+        ]
+    },
+    {
+        "direction": "Question Answering",
+        "image": "QA.png",
+        "members": [
+            "Yong Hu",
+            "Bo-Ran Wang"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+{
+    "email": "maoxl@bit.edu.cn",
+    "location": "Center Building, Beijing Institute of Technology, Beijing, 100081",
+    "officeAddress": "1001@Center Building, Beijing Institute of Technology",
+    "homepage": "http://datahammer.net",
+    "github": "https://github.com/Academic-Hammer",
+    "webmasters": [
+        "huyong@bit.edu.cn",
+        "dadamrxx@gmail.com"
+    ],
+    "notices": [
+        {
+            "title": "Join us!",
+            "content": "We are actively looking for self-motivated students to join our group. Feel free to contact us if you are interested. People with basic experience in natural language processing and are desired to explore in this field will be preferred."
+        },
+        {
+            "title": "Graduates",
+            "content": "If you are willing to apply for PhD/master positions in our group, please contact maoxl@bit.edu.cn for further details. People with basic understranding of related fields, prior experience in natural language processing and proficient coding skills are preferred."
+        },
+        {
+            "title": "Undergraduates",
+            "content": "We are also looking for highly self-motivated and creative undergraduate to join our group. You can feel free to reach out to maoxl@bit.edu.cn for more details."
+        }
+    ]
+}

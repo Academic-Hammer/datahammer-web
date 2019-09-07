@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Yong Hu",
+      "photo": "huyong.jpg",
+      "email": "nghuyong@163.com",
+      "github": "https://github.com/nghuyong",
+      "homepage": "http://nghuyong.top",
+      "description": "Hello, I'm nghuyong, don't ask me the meaning of `ng`. I got B.S. (2018) degree from Jiangnan University. Now my main research interest lies in question answering and dialogue. I am also very interested in the industrialization of AI."
+    },
+    {
+        "name": "Tan Yan",
+        "photo": "yantan.jpeg",
+        "email": "yantan@bit.edu.cn",
+        "github": "https://github.com/ethan-yt",
+        "homepage": "",
+        "description": "Hello, I'm YanTan. I got B.S. (2018) degree from Jiangnan University. Now my main research interest lies in question answering and dialogue. I am also very interested in the industrialization of AI."
+      },
+      {
+        "name": "Ping Jiang",
+        "photo": "jiangpin.jpeg",
+        "email": "",
+        "github": "https://github.com/nefujiangping",
+        "homepage": "https://github.com/nefujiangping",
+        "description": "My name is Jiang Ping. I got B.S degree from Northeast Forestry University in 2018. Now, my research focuses on Information Extraction, which is a critical procedure for constructing Knowledge Graph. Recently, I'm focused on Relation Extraction."
+      },
+      {
+        "name": "Houjin Yu",
+        "photo": "yuhoujin.png",
+        "email": "yuhoujin@outlook.com",
+        "github": "https://github.com/houking-can",
+        "homepage": "https://github.com/houking-can",
+        "description": "Hello, I'm Houking. I have been in Beijing Institute of Technology for 5 years and got B.S degree in 2018. I studied in document summarization in postgraduate year 1, and now I'm intrested in knowledge graph."
+      },
+      {
+        "name": "JiaNan Guo",
+        "photo": "guojianan.jpeg",
+        "email": "",
+        "github": "https://github.com/KanSunny",
+        "homepage": "https://github.com/KanSunny",
+        "description": "My name is JiaNan Guo, a struggling mortal. I am currently a master student at DataHammer Group, supervised by A.P. XianLing Mao. Prior to this, I received my B.S. from Beijing Institute of Technology in 2019. I am interested in hasing techniques, network embedding and natural language processing, particularly, hashing techniques. You are welcome to discuss with me about aforementioned areas."
+      }
+]

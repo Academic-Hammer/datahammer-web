@@ -1,0 +1,13 @@
+{
+    "name": "Xian-Ling Mao",
+    "photo": "maoxianling.jpeg",
+    "email": "maoxl@bit.edu.cn",
+    "homepage": "http://cs.bit.edu.cn/szdw/jsml/js/mxl_2018/",
+    "description": "I am an associate professor in Beijing Institute of Technology. I focus mainly on machine learning and web mining. Specifically, I focus on Deep Learning、Topic Modeling、 Question Answering and Learn to Hashing etc. Until now, I have published 20+ top papers on AAAI, IJCAI, TKDE, CIKM, EMNLP, COLING etc. I have served as Reviewer for ACM TOIS，ACM TIST、Information Sciences、WWWJ etc.；PC Member for AAAI 2020&2019、SIGIR 2019&2018、COLING 2018 and IJCAI 2019&2018 etc.",
+    "research": [
+        "Deep Learning",
+        "Topic Modeling",
+        "Question Answering",
+        "Learn to Hashing"
+    ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Yi-Kun Tang",
+    "photo": "tangyikun.jpeg",
+    "email": "tangyk@bit.edu.cn",
+    "github": "",
+    "homepage": "",
+    "description": "Hello, I am Yi-Kun Tang and I am now a Ph.D candidate in Beijing Institute of Technology."
+  },
+  {
+    "name": "Tian Lan",
+    "photo": "lantian.jpeg",
+    "email": "lantiangmftby@gmail.com",
+    "github": "http://github.com/gmftbyGMFTBY",
+    "homepage": "",
+    "description": "Hello, I'm GMFTBY, don't ask me the meaning of 'GMFTBY'. I'm a graduate student of Beijing institute of technology. Recently, I focus on the Dialog systems."
+  },
+  {
+    "name": "ZeWen Chi",
+    "photo": "chizewen.jpeg",
+    "email": "chizewen@outlook.com",
+    "github": "http://github.com/czwin32768",
+    "homepage": "",
+    "description": "Research Interest: cross-lingual NLP, pretraining for NLP; Hobby: swimming, cycling, DOTA, PUBG, PS4 games(Metal Gear Solid V), korean drama, kpop girl groups, korean variety show (Running Man, 2 Days & 1 Night, Knowing Bros)"
+  }
+]
