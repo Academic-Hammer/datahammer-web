@@ -25,19 +25,19 @@
           <div class="footer-widget footer-text">
             <h4>Our contact</h4>
             <p class="mail">
-              <span>Mail:</span>
+              <span>Mail:&nbsp;</span>
               <a :href="email">{{ email }}</a>
             </p>
             <p>
-              <span>Location:</span>
+              <span>Location:&nbsp;</span>
               {{ location }}
             </p>
             <p>
-              <span>Homepage:</span>
+              <span>Homepage:&nbsp;</span>
               <a :href="homepage" target="_blank">{{ homepage }}</a>
             </p>
             <p>
-              <span>Github:</span>
+              <span>Github:&nbsp;</span>
               <a :href="github" target="_blank">{{ github }}</a>
             </p>
           </div>
@@ -53,7 +53,7 @@
       </div>
       <div class="row">
         <div class="col-lg-12 text-center">
-          <div class="footer-copy">& copy 2019 DataHammer. All Rights Reserved.</div>
+          <div class="footer-copy">&copy; 2019 DataHammer. All Rights Reserved.</div>
         </div>
       </div>
     </div>
@@ -73,77 +73,77 @@ export default {
 
 <style scoped>
 #footer {
-    padding-bottom: 60px;
-    position: relative;
-    background-image: url("../assets/img/footer.png");
-    border-top: 1px solid#eee;
+  padding-bottom: 60px;
+  position: relative;
+  background-image: url("../assets/img/footer.png");
+  border-top: 1px solid#eee;
 }
 
 .footer-widget ul li {
-    padding: 5px 0px;
+  padding: 5px 0px;
 }
 
 .footer-widget p {
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 .footer-widget h4 {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .footer-widget h4 span {
-    color: #635CDB;
-    display: block;
-    font-size: 60px;
-    line-height: 60px;
+  color: #635cdb;
+  display: block;
+  font-size: 60px;
+  line-height: 60px;
 }
 
 .footer-blog li img {
-    width: 70px;
-    height: 70px;
-    float: left;
-    margin-right: 20px;
+  width: 70px;
+  height: 70px;
+  float: left;
+  margin-right: 20px;
 }
 
 .footer-blog li h5 {
-    margin-bottom: 10px;
-    font-size: 16px;
-    line-height: 22px;
-    text-transform: capitalize;
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 22px;
+  text-transform: capitalize;
 }
 
 .footer-blog li a.read-more {
-    font-size: 13px;
+  font-size: 13px;
 }
 
 .footer-blog li {
-    margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 .footer-copy {
-    letter-spacing: 1px;
-    padding-top: 30px;
-    margin-top: 30px;
-    border-top: 1px solid#eee;
+  letter-spacing: 1px;
+  padding-top: 30px;
+  margin-top: 30px;
+  border-top: 1px solid#eee;
 }
 
 .footer-text h6 {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .footer-text p span {
-    color: #000;
+  color: #000;
 }
 
 .footer-text p.mail {
-    color: #635CDB;
+  color: #635cdb;
 }
 
 .bg-main {
-    background: #F4F8FB;
+  background: #f4f8fb;
 }
 
 .footer-widget a {
-    color: #999;
+  color: #999;
 }
 </style>
