@@ -18,9 +18,9 @@ const routes = [
 
 // eslint-disable-next-line no-new
 const router = new VueRouter({
-  // mode: 'history',
+  mode: 'history',
   routes,
-  scrollBehavior (to, from, savedPosition) {
+  scrollBehavior () {
     return { x: 0, y: 0 }
   }
 })
