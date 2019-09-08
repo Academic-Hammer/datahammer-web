@@ -27,6 +27,6 @@ export default {
 </script>
 <style scoped>
 .banner-home {
-  background-image: url("~@/assets/img/banner/index-bg.png")
+  background-image: url("https://datahammer.oss-cn-beijing.aliyuncs.com/banner/index-bg.png")
 }
 </style>

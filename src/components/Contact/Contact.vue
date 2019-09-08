@@ -20,6 +20,6 @@ export default {
 
 <style scoped>
 .banner-contact {
-  background-image: url("~@/assets/img/banner/contact-bg.jpg")
+  background-image: url("https://datahammer.oss-cn-beijing.aliyuncs.com/banner/contact-bg.jpg")
 }
 </style>

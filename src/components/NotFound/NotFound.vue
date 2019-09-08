@@ -17,6 +17,6 @@ export default {
 
 <style scoped>
 .banner-404 {
-  background-image: url("~@/assets/img/banner/404-bg.jpg")
+  background-image: url("https://datahammer.oss-cn-beijing.aliyuncs.com/banner/404-bg.jpg")
 }
 </style>
