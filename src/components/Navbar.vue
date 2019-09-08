@@ -21,16 +21,16 @@
       <div class="collapse navbar-collapse justify-content-end" id="mainNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link smoth-scroll" href="/">Home</a>
+            <router-link class="nav-link smoth-scroll" to="/">Home</router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link smoth-scroll" href="/member">Member</a>
+            <router-link class="nav-link smoth-scroll" to="/member">Member</router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link smoth-scroll" href="publication">Publication</a>
+            <router-link class="nav-link smoth-scroll" to="publication">Publication</router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link smoth-scroll" href="contact">Contact</a>
+            <router-link class="nav-link smoth-scroll" to="contact">Contact</router-link>
           </li>
         </ul>
       </div>

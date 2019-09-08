@@ -7,16 +7,16 @@
             <h4>Quick links</h4>
             <ul>
               <li>
-                <a href="/">Home</a>
+                <router-link to="/">Home</router-link>
               </li>
               <li>
-                <a href="/member">Member</a>
+                <router-link to="/member">Member</router-link>
               </li>
               <li>
-                <a href="/publication">Publication</a>
+                <router-link to="/publication">Publication</router-link>
               </li>
               <li>
-                <a href="/contact">Contact</a>
+                <router-link to="/contact">Contact</router-link>
               </li>
             </ul>
           </div>
