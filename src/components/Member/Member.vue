@@ -7,9 +7,9 @@
       </p>
     </Banner> 
     <Advisor></Advisor>
-    <Doctor></Doctor>
-    <Masters></Masters>
-    <Undergraduates></Undergraduates>
+    <MemberSection degree="Ph.D Students" :members="doctors"></MemberSection>
+    <MemberSection degree="Master Students" :members="masters"></MemberSection>
+    <MemberSection degree="Undergraduate Students" :members="undergraduates"></MemberSection>
     <Directions></Directions>
   </div>
 </template>
@@ -17,20 +17,41 @@
 <script>
 import Banner from "../Banner";
 import Advisor from "./Advisor";
-import Doctor from "./Doctor";
-import Masters from "./Masters";
+import MemberSection from "./MemberSection"
 import Directions from "./Directions";
-import Undergraduates from "./Undergraduates"
+
+import doctors from "@/data/doctors.json";
+const newDoctors = doctors.map(member => ({
+  ...member,
+  photo: require(`@/data/photos/${member.photo}`)
+}));
+
+import masters from "@/data/masters.json";
+const newMasters = masters.map(member => ({
+  ...member,
+  photo: require(`@/data/photos/${member.photo}`)
+}));
+
+import undergraduates from "@/data/undergraduates.json";
+const newUndergraduates = undergraduates.map(member => ({
+  ...member,
+  photo: require(`@/data/photos/${member.photo}`)
+}));
 
 export default {
   name: "Member",
+  data() {
+    return {
+      doctors: newDoctors,
+      masters: newMasters,
+      undergraduates: newUndergraduates
+    }
+  },
   components: {
     Banner,
     Advisor,
-    Doctor,
-    Masters,
-    Directions,
-    Undergraduates
+    MemberSection,
+    Directions
   }
 };
 </script>
