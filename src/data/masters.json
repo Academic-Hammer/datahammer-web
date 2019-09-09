@@ -32,11 +32,19 @@
         "description": "Hello, I'm Houking. I have been in Beijing Institute of Technology for 5 years and got B.S degree in 2018. I studied in document summarization in postgraduate year 1, and now I'm intrested in knowledge graph."
       },
       {
-        "name": "JiaNan Guo",
+        "name": "Jia-Nan Guo",
         "photo": "guojianan.jpg",
         "email": "",
         "github": "https://github.com/KanSunny",
         "homepage": "https://github.com/KanSunny",
         "description": "My name is JiaNan Guo. I am currently a master student at DataHammer Group. I am interested in hasing techniques, network embedding and natural language processing, particularly, hashing techniques."
+      },
+      {
+        "name": "Hongli Mao",
+        "photo": "maohongli.jpg",
+        "email": "mhllwmt@foxmail.com",
+        "github": "",
+        "homepage": "",
+        "description": "I am Hongli Mao, a master student in Computer Science at Beijing Institute of Technology. I received my B.E. degree from Xidian University in 2019. Now my research contents include natural language processing, knowledge graph and machine learning."
       }
 ]
