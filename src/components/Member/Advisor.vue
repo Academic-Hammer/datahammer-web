@@ -2,7 +2,7 @@
   <section class="section-padding">
     <div class="container">
       <div class="row align-items-justify">
-        <div class="col-lg-6 col-sm-12 col-md-8 mb-4">
+        <div class="col-lg-8 col-sm-12 col-md-8 mb-4">
           <h2 class="mb-3">Faculty</h2>
           <span class="h3 mb-4">
             <a :href="homepage" target="_blank">{{ name }}</a>
@@ -24,7 +24,7 @@
             <a :href="homepage" target="_blank">{{ homepage }}</a>
           </p>
         </div>
-        <div class="col-lg-6 col-md-4" style="margin-top: 50px;">
+        <div class="col-lg-4 col-md-4" style="margin-top: 50px;">
           <img :src="photo" alt width="250px" />
         </div>
       </div>

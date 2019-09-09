@@ -1382,7 +1382,6 @@ BLOG SINGLE
 .avatar-img {
     width: 200px;
     height: 200px;
-    margin-right: 1rem !important;
     object-fit: contain;
     border-radius: 0.25rem !important;
 }

@@ -8,10 +8,10 @@
           </div>
         </div>
       </div>
-      <div class="row">
-        <div v-for="direction in directions" :key="direction.id" class="col-lg-3 col-md-6">
-          <img :src="direction.image" :alt="direction.name" class="img-fluid rounded w-100" />
-          <h4 class="mt-3">{{ direction.name }}</h4>
+      <div class="images-row">
+        <div v-for="direction in directions" :key="direction.id" class="images-wrap">
+          <img :src="direction.image" :alt="direction.name" class="images"/>
+          <p class="direction-title">{{ direction.direction }}</p>
           <p>{{ direction.members.join(', ') }}</p>
         </div>
       </div>
@@ -34,3 +34,27 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.images-row {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.images-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.images {
+  max-width: 150px;
+}
+
+.direction-title {
+  font-size: 20px;
+  color: black;
+  margin: 1rem 0 0 0;
+}
+</style>

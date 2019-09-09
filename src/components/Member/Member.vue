@@ -9,7 +9,7 @@
     <Advisor></Advisor>
     <MemberSection degree="Ph.D Students" :members="doctors"></MemberSection>
     <MemberSection degree="Master Students" :members="masters"></MemberSection>
-    <MemberSection degree="Undergraduate Students" :members="undergraduates"></MemberSection>
+    <MemberSection v-if="false" degree="Undergraduate Students" :members="undergraduates"></MemberSection>
     <Directions></Directions>
   </div>
 </template>

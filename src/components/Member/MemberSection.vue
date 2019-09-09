@@ -5,10 +5,10 @@
       <div class="row">
         <div v-for="member in members" :key="member.id" class="col-lg-6 infobox">
           <div class="media img-block">
-            <div>
+            <div class="avatar-wrap">
               <img :src="member.photo" :alt="member.name" class="avatar-img" />
               <br />
-              <div>
+              <div class="btn-wrap">
                 <a :href="member.homepage" target="_blank">
                   <span class="fa-stack fa-lg infobox1">
                     <i class="fa fa-circle fa-stack-2x"></i>
@@ -53,3 +53,15 @@ export default {
   props: ["degree", "members"]
 };
 </script>
+
+<style scoped>
+.avatar-wrap {
+  margin-right: 1rem;
+}
+
+.btn-wrap {
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-around;
+}
+</style>
