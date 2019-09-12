@@ -46,5 +46,13 @@
     "github": "ttps://github.com/DaDaMrX",
     "homepage": "https://dadamrx.github.io",
     "description": "Hello, I am Heng-Da Xu. I am a graduate student now in Beijing Institute of Technology, majoring Computer Science. My interest in general lies in text generating and dialogue systems."
+  },
+  {
+    "name": "Chengxin Xin",
+    "photo": "xinchengxin.jpg",
+    "email": "xin.chengxin@hotmail.com",
+    "github": "https://github.com/fihxc",
+    "homepage": "",
+    "description": "Hello, I'm Chengxin and I am a Ph.D student at Beijing Institute of Technology. My research interest is NLP."
   }
 ]
